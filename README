@@ -1,0 +1,23 @@
+###
+
+Teresa Pay
+API de Twitter + API de Imgur + Diferentes funciones
+
+Twitter: @Kinduff
+
+###
+
+Dependencias: pygame, Image, pygame, tweepy, opencv, highgui, pycurl, cStringIO, urllib, urllib2, base64, re, untangle, optparse, Tkinter
+
+###
+
+Notas:
+   + Este es mi primer script en python, tiene muchos errores y depende de demasiados paquetes, sin embargo lo estoy mejorando cada que tengo tiempo.
+   + Primero lo hice para que se ejecutara en la terminal y luego fui integrando poco a poco la interfáz gráfica.
+
+###
+
+Licencia: Ninguna, toma lo que quieras y ni te atrevas a mencionarme.
+
+
+###
